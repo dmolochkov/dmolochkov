@@ -6,6 +6,6 @@ Design Engineer — I design and build products from scratch.
 <br>**Cercano** *(in development)* — privacy-focused messenger with E2E encryption and real-time calls
 <br>**Figma Plugins** — design system audit and design tokens manager
 
-TypeScript · React · Next.js · React Native · Rust · PostgreSQL · Supabase · Figma API
+TypeScript · React · Next.js · Flutter · React Native · Rust · PostgreSQL · Supabase · Figma API
 
 [LinkedIn](https://linkedin.com/in/molochou)
