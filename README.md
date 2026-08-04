@@ -1,4 +1,4 @@
-## Hey, I'm Dmitriy
+## Hi, I'm Dmitriy
 
 Design Engineer — I design and build products from scratch.
 
