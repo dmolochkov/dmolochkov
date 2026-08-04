@@ -38,13 +38,13 @@ Client-side AES-256 per-chat encryption, OTA JavaScript updates with binary APK 
 
 ### Figma Community plugins
 
-| Plugin | What it does |
-| --- | --- |
-| [Design System Audit](https://www.figma.com/community/plugin/1563463190001104520/design-system-audit) | Scans a file for color, spacing and typography violations against the design system, then fixes them one by one or in bulk |
-| [TokenFlow](https://www.figma.com/community/plugin/1566384045462066800/tokenflow) | Extracts design tokens from any live website's HTML and CSS and imports them straight into Figma Variables |
-| [Slide Import](https://www.figma.com/community/plugin/1646125037635586824/slide-import) | Imports PowerPoint and Google Slides decks into Figma as editable frames, parsing OOXML in the browser. [Source](https://github.com/dmolochkov/slide-import) |
-| [FontShift](https://www.figma.com/community/plugin/1641769006791941190/fontshift) | Swaps fonts across an entire file with smart weight mapping, fully offline |
-| [Font Tester](https://font-tester-ten.vercel.app) | Web app that compares the fonts installed on your own machine side by side. Nothing leaves the browser |
+| Plugin | What it does | Source |
+| --- | --- | --- |
+| [Design System Audit](https://www.figma.com/community/plugin/1563463190001104520/design-system-audit) | Scans a file for color, spacing and typography violations against its own design system, then fixes them one by one or in bulk | [repo](https://github.com/dmolochkov/design-system-audit) |
+| [TokenFlow](https://www.figma.com/community/plugin/1566384045462066800/tokenflow) | Extracts design tokens from any live website's HTML and CSS and imports them straight into Figma Variables | [repo](https://github.com/dmolochkov/tokenflow) |
+| [Slide Import](https://www.figma.com/community/plugin/1646125037635586824/slide-import) | Imports PowerPoint and Google Slides decks into Figma as editable frames, parsing OOXML in the browser | [repo](https://github.com/dmolochkov/slide-import) |
+| [FontShift](https://www.figma.com/community/plugin/1641769006791941190/fontshift) | Swaps fonts across an entire file with smart weight mapping, fully offline | [repo](https://github.com/dmolochkov/fontshift) |
+| [Font Tester](https://font-tester-ten.vercel.app) | Web app that compares the fonts installed on your own machine side by side. Nothing leaves the browser | [repo](https://github.com/dmolochkov/font-tester) |
 
 ---
 
