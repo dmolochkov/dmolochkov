@@ -14,11 +14,15 @@ Kanban board for teams, built solo end-to-end. Next.js 15 · Tailwind 4 · Bun/H
 
 Real-time WebSocket sync, web-push notifications, optimistic UI with explicit pending and failure states, hand-written pointer-based drag & drop instead of a library, natural-language deadlines, installable PWA. Self-hosted on Docker + Caddy with one-click GitHub Actions deploy. EU hosting, GDPR export and deletion.
 
+→ [**Case study**](https://github.com/dmolochkov/pipeq-case-study) — architecture, engineering decisions, what got reverted and why
+
 **[Kollaba](https://kollaba.app)** — where designers and developers find each other for side projects · *released*
 
 Next.js 16 (App Router) · React 19 · TypeScript · Tailwind 4 · Supabase — Postgres, Auth, Realtime, row-level security on every table.
 
 GitHub and Google OAuth, real-time chat and notifications, applications and team flow, user-generated blog, image uploads through Cloudflare R2, Turnstile anti-bot, i18n infrastructure for five languages. Dark-theme design system with tokens and a component library — designed and coded by the same hand.
+
+→ [**Case study**](https://github.com/dmolochkov/kollaba-case-study) — architecture, design system, authorization model
 
 **Cercano** — privacy-first messenger for iOS and Android · *in development*
 
@@ -26,7 +30,9 @@ React Native 0.84 · TypeScript · Rust (Axum) · PostgreSQL 16 · WebRTC with a
 
 Client-side AES-256 per-chat encryption, OTA JavaScript updates with binary APK patching, nine languages, separate staging and production environments with a PR-gated release flow.
 
-> Product repositories are private. Happy to walk through the architecture and the code in a call.
+→ [**Case study**](https://github.com/dmolochkov/cercano-case-study) — architecture, encryption model, native modules
+
+> Product repositories are private — the case studies above cover the architecture and the reasoning. Happy to walk through the code itself in a call.
 
 ---
 
