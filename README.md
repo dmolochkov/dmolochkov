@@ -50,7 +50,7 @@ Client-side AES-256 per-chat encryption, OTA JavaScript updates with binary APK 
 
 ### Stack
 
-**Engineering** — TypeScript · React · Next.js · React Native / Expo · Tailwind CSS · Node.js / Bun · Hono · PostgreSQL · Drizzle ORM · Supabase · REST · WebSockets · PWA & service workers · OAuth · Figma Plugin API · Docker · Vercel · GitHub Actions
+**Engineering** — TypeScript · React · Next.js · React Native / Expo · Flutter · Tailwind CSS · Node.js / Bun · Hono · PostgreSQL · Drizzle ORM · Supabase · REST · WebSockets · PWA & service workers · OAuth · Figma Plugin API · Docker · Vercel · GitHub Actions
 
 **Design** — Design systems · design tokens · component libraries · UX/UI · prototyping · user research · usability testing · accessibility · motion · brand identity · typography · Figma · Adobe Creative Suite
 
